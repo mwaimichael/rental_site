@@ -1,2 +1,0 @@
-Built to run on the x8_64 Architecture
-Runs on a network architecture of 1 router, 2 switches and fibre optic cables
