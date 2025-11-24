@@ -13,5 +13,5 @@ width = float(input("Enter the width of the rectangle: "))
 # Calculate the area
 area = length * width
 
-# Print the result
-print(f"The area of the rectangle is: {area}")
+# Print the result with a comma separator and to 2 decimal places
+print(f"The area of the rectangle is: {area:,.2f}")
