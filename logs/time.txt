@@ -1,1 +1,2 @@
 # Logs sorted by time of genration.
+# Sorted by Newest first with a time stamp at the end!
