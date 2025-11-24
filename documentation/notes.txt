@@ -1,0 +1,26 @@
+No, you do **not** have to be a Certified Public Accountant (CPA) to enroll in or take the Certified Information Systems Auditor (CISA) exam.
+
+The CISA certification, offered by ISACA, has its own distinct set of requirements.
+
+***
+
+## CISA Certification Requirements
+
+The path to CISA certification involves two main steps: passing the exam and meeting the experience requirement.
+
+1.  **Pass the CISA Exam:**
+    * Anyone can register for and take the CISA exam. There is **no educational or experience prerequisite** to sit for the exam itself.
+2.  **Meet the Professional Experience Requirement (for Certification):**
+    * To be certified and officially earn the CISA designation, you must demonstrate a minimum of **five years** of professional work experience in information systems (IS) auditing, control, assurance, or security.
+    * This experience must be gained within the 10-year period preceding the date of application for certification, and you have five years from passing the exam to submit your application.
+
+### Experience Waivers
+
+ISACA allows for **waivers** (substitutions) for up to three years of the five-year experience requirement based on specific educational degrees or non-IS auditing experience.
+
+A CPA is **not** a direct requirement, but having a CPA or relevant accounting background can be beneficial, particularly since the skills from financial/operational auditing are often transferable to IS auditing. However, a CPA itself is not listed as a waiver for CISA experience on the application, unlike other certifications like CIMA or ACCA member status (which can grant a 2-year waiver). The standard waivers are based on:
+
+* **Academic Degrees:** For example, a bachelor's or master's degree in any field can often be substituted for **two years** of experience. A master's degree in Information Systems or a related field can sometimes count for up to **three years**.
+* **Non-IS Auditing Experience:** One year of non-IS auditing or one year of general information systems experience (but not both) can substitute for **one year** of the required experience.
+
+In summary, the CISA focuses specifically on **information systems auditing and security**, and while financial audit knowledge (like that gained from a CPA) is helpful, the **CPA designation is not a prerequisite** for the CISA.
